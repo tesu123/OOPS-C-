@@ -16,7 +16,7 @@ public:
 };
 
 // constructor definition
-Rectangle :: Rectangle(int l, int w)
+Rectangle ::Rectangle(int l, int w)
 {
     length = l;
     width = w;
